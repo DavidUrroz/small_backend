@@ -1,0 +1,1 @@
+DATABASE_NAME = 'D:\VS_Code\Ejercicios\small_backend\pelis.db'
